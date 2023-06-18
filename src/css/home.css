@@ -1,0 +1,44 @@
+#home-modernize{
+    /* background-image: url('../images/Shape.svg'); */
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    color: white !important;
+}
+
+#banner-home{
+    height: auto;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.54), rgba(0, 0, 0, 0.54)), url('../images//banner-home.png');
+}
+
+#value{
+    padding: 60px;
+    height: auto;
+    background-color: white;
+}
+
+#blog-home{
+    padding: 65px;
+    color: 'white'  !important;
+    background: #2F483B;
+    height: auto;
+}
+
+#blog{
+    margin-top: 50px;
+}
+
+#card-blog{
+    color: white;
+}
+
+#footer-home{
+    padding: 100px;
+    background-color:  #C9DBB2;
+    height: auto;
+}
+
+#home-footer{
+    padding: 50px;
+    background-color: white;
+}

@@ -1,0 +1,12 @@
+.box-container{
+    width: 500px;
+    height: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.text-a{
+    width: 500px;
+}

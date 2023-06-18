@@ -1,0 +1,17 @@
+#comunity{
+    height: auto;
+    background-color: #F1F2F6;
+}
+
+#header-comunity {
+    height: 350px;
+    background-color: #6CEB57;
+}
+
+#comunity-section{
+    margin-top: 50px !important;
+    margin: auto;
+    width: 60%;
+    padding: 10px; 
+    background-color: 'white' !important;
+}
