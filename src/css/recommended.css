@@ -1,0 +1,28 @@
+#recommended {
+    padding: 50px;
+    height: auto;
+    background: linear-gradient(132.56deg, #B4CD93 17.36%, #B4CFA4 30.58%, #B3D0A9 35.05%, #B3D0AD 38.5%, #B3D1B3 42.63%, #B3D2BA 48.14%, #B3D2BD 50.89%, #B3D3C0 53.65%, #B2D8E6 83.46%);
+}
+
+#recommended-section{
+    padding: 20px;
+}
+
+#recommended-section h1 {
+    font-size: 70px;
+    color: white;
+    font-weight: bold;
+}
+
+.produk {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.produk img {
+    border-radius: 10px;
+    border: 0.5px solid #d3d2d2;
+}

@@ -1,0 +1,22 @@
+#navbar{
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    color: white;
+}
+
+.logo {
+    width: 80px;
+}
+
+.menu ul {
+    list-style: none;
+    
+    color: white;
+}
+
+.menu li {
+    margin-right: 20px;
+    text-decoration: none;
+} 
+

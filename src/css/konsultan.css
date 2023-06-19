@@ -1,0 +1,19 @@
+#konsultan-banner{
+    background-image: url('../images/konsultan.png');
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#konsultan-body{
+    background-color: #F6F6F6;
+}
+
+.konsultan {
+    padding-top: 100px;
+}
+
+.row{
+    margin: 30px !important;
+}

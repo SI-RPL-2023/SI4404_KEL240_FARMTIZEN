@@ -1,0 +1,22 @@
+#login{
+    background-image: url('../images/bg-login.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+#login-form{
+    padding: 5%;
+    height: 100vh;
+    background: linear-gradient(90deg, rgba(55, 176, 13, 0.99) 0%, rgba(75, 177, 103, 0.71) 48.55%, rgba(75, 190, 86, 0) 97.4%);
+}
+
+#login-form a{
+    text-decoration: none;
+}
+
+.btn-auth-sosmed{
+    border-radius: 0px !important;
+}

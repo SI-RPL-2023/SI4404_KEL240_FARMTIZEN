@@ -1,0 +1,16 @@
+#banner-course{
+    color: white;
+    height: 300px;
+    width: 100%;
+    background-image: url('../images/header-course.png');
+    /* no repeat */
+    background-repeat: no-repeat;
+}
+
+#banner-text {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* tambahkan properti ini */
+}
